@@ -268,6 +268,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-05-08 16:11:35 +0000",
       "minecraft:soul_sand_valley": "2025-05-08 09:51:47 +0000"
     },
     "done": false
@@ -713,11 +714,14 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-08 10:07:41 +0000",
+      "minecraft:blaze": "2025-05-08 16:12:49 +0000",
       "minecraft:skeleton": "2025-05-08 10:05:50 +0000",
       "minecraft:ghast": "2025-05-08 14:52:17 +0000",
+      "minecraft:magma_cube": "2025-05-08 16:11:44 +0000",
       "minecraft:spider": "2025-05-08 10:03:48 +0000",
       "minecraft:creeper": "2025-05-08 14:05:00 +0000",
       "minecraft:witch": "2025-05-08 13:05:10 +0000",
+      "minecraft:wither_skeleton": "2025-05-08 16:11:00 +0000",
       "minecraft:enderman": "2025-05-08 10:02:42 +0000",
       "minecraft:zombie": "2025-05-08 10:04:50 +0000",
       "minecraft:zombie_villager": "2025-05-08 13:28:48 +0000"
@@ -1714,6 +1718,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-08 16:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-08 15:43:49 +0000"
@@ -1798,6 +1808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-05-08 16:12:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-08 15:43:49 +0000"
@@ -1843,6 +1859,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-05-08 15:15:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 16:12:28 +0000"
     },
     "done": true
   },
@@ -1960,9 +1982,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-05-08 16:12:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-08 15:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-08 16:10:52 +0000"
     },
     "done": true
   },
