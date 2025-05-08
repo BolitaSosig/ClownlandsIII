@@ -53,3 +53,6 @@
 [14:55:09] [Server thread/INFO]: GalaicoVOX lost connection: Disconnected
 [14:55:09] [Server thread/INFO]: GalaicoVOX left the game
 [14:55:09] [Server thread/WARN]: handleDisconnection() called twice
+[15:04:02] [Server thread/INFO]: GalaicoVOX[/127.138.68.213:44385] logged in with entity id 21216 at (503.5, 80.0, -1753.5)
+[15:04:02] [Server thread/INFO]: GalaicoVOX joined the game
+[15:07:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2962ms or 59 ticks behind
