@@ -712,6 +712,7 @@
       "minecraft:pillager": "2025-05-08 10:07:41 +0000",
       "minecraft:skeleton": "2025-05-08 10:05:50 +0000",
       "minecraft:spider": "2025-05-08 10:03:48 +0000",
+      "minecraft:witch": "2025-05-08 13:05:10 +0000",
       "minecraft:enderman": "2025-05-08 10:02:42 +0000",
       "minecraft:zombie": "2025-05-08 10:04:50 +0000"
     },
@@ -1032,6 +1033,48 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-08 10:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-08 13:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-08 13:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-08 13:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-08 13:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-08 13:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-08 13:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-08 13:02:15 +0000"
     },
     "done": true
   },

@@ -39,3 +39,5 @@
 [12:57:14] [Server thread/INFO]: GalaicoVOX[/127.138.68.213:32861] logged in with entity id 60 at (503.4000846577384, 80.0, -1753.1970377877867)
 [12:57:14] [Server thread/INFO]: GalaicoVOX joined the game
 [12:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2409ms or 48 ticks behind
+[13:06:43] [Server thread/INFO]: GalaicoVOX has made the advancement [Sweet Dreams]
+[13:11:56] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=729, y=53, z=-1942} class_2338{x=728, y=52, z=-1942}
