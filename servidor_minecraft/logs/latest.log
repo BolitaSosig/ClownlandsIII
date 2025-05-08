@@ -49,3 +49,7 @@
 [14:24:46] [Server thread/INFO]: Unknown or incomplete command, see below for error
 [14:24:46] [Server thread/INFO]: [A<--[HERE]
 [14:28:03] [Server thread/INFO]: GalaicoVOX has made the advancement [Diamonds!]
+[14:50:22] [Server thread/INFO]: GalaicoVOX has made the advancement [Take Aim]
+[14:55:09] [Server thread/INFO]: GalaicoVOX lost connection: Disconnected
+[14:55:09] [Server thread/INFO]: GalaicoVOX left the game
+[14:55:09] [Server thread/WARN]: handleDisconnection() called twice
