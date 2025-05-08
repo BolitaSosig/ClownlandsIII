@@ -27,9 +27,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
-      "has_magma_cream": "2025-05-02 13:26:58 +0000"
+      "has_obsidian": "2025-05-02 13:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-02 13:21:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-02 13:21:50 +0000"
     },
     "done": true
   },
@@ -45,27 +57,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/campfire": {
-    "criteria": {
-      "has_coal": "2025-05-02 13:27:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-05-02 13:21:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-02 13:23:09 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "minecraft:nether/find_fortress": {
     "criteria": {
-      "obsidian": "2025-05-02 13:21:50 +0000"
+      "fortress": "2025-05-02 13:26:42 +0000"
     },
     "done": true
   },
@@ -78,27 +78,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/bone_meal": {
-    "criteria": {
-      "has_bone": "2025-05-02 13:27:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:magma_cube": "2025-05-02 13:26:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
-      "has_obsidian": "2025-05-02 13:21:50 +0000"
+      "has_magma_cream": "2025-05-02 13:26:58 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
-      "fortress": "2025-05-02 13:26:42 +0000"
+      "has_coal": "2025-05-02 13:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-02 13:27:23 +0000"
     },
     "done": true
   },
